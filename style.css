@@ -1,0 +1,90 @@
+.container {
+  margin-bottom: 100px;
+}
+.orange-bg {
+  background-color: #fceae8;
+  border-radius: 10px;
+}
+.carousel-item {
+  padding: 20px 40px;
+}
+.price {
+  color: #ff136f;
+}
+.buy-button {
+  background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 9px 25px;
+  cursor: pointer;
+  font-weight: bold;
+}
+.cat1,
+.cat2,
+.cat3 {
+  padding: 10px 30px;
+}
+.cat1 {
+  background-image: linear-gradient(60deg, lightsalmon, orange);
+  border-radius: 10px;
+  margin: 10px;
+}
+.cat2 {
+  background-image: linear-gradient(30deg, pink, rgb(197, 3, 110));
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.cat3 {
+  background-image: linear-gradient(60deg, rgb(24, 109, 189), slateblue);
+  border-radius: 10px;
+  margin: 10px;
+}
+.catagories h1 {
+  color: white;
+}
+.catagories img {
+  width: 100px;
+}
+.shoe-button {
+  background-image: linear-gradient(to top, grey 0%, black 100%);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 9px 25px;
+  cursor: pointer;
+  font-weight: bold;
+}
+.card-text {
+  color: dimgray;
+}
+.shoe-price,
+.card-title {
+  font-weight: 600;
+}
+.card {
+  border: none;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px lightgrey;
+}
+#input {
+  border: none;
+  border-radius: 5px;
+  padding: 2px;
+}
+.submit-button {
+  background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 4px 20px;
+  cursor: pointer;
+  font-weight: bold;
+}
+#subscribe {
+  height: 300px;
+}
+#subscribe h6 {
+  color: gray;
+}
